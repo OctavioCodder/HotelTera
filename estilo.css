@@ -1,0 +1,35 @@
+#botao-iniciar{
+    width: 500px;
+    height: 50px;
+    border-radius: 50px;
+    margin-top: 50px;
+    text-transform: uppercase;
+    background-color: #3F2305;
+    color: #5B9A8B;
+    margin-left: 400px;
+    margin-right: 550px;
+}
+
+html{
+    background-color: #222832;
+}
+
+h1{
+    width: 100%;
+    color: #1a4a3f;
+    padding-top: 50px;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 100px;
+    text-align: center;
+    font-size: 60px;
+}
+
+h3{
+    width: 100%;
+    color: #5B9A8B;
+    padding-top: 50px;
+    line-height: 20px;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
